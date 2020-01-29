@@ -5,4 +5,5 @@ The project concerns the identification of underlying market tendencies within l
 - Aeson Feehan
 - Romain Ilbert
 - Aaron Mamann
+
 The methods used are part of a larger initiative at the Bank of France to elaborate and compare machine-learning algorithms allowing the identification of market tendencies and the prediction of economic crises.
